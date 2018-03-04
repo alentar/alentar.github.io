@@ -1,4 +1,4 @@
 # Alentar Organization
 
 # Projects
-- [Realtime Patients Monitoring Server](/rpms-server "RPMS")
+- [Realtime Patients Monitoring Server](https://alentar.github.io/rpms-server "RPMS")
